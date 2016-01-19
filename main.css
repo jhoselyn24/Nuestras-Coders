@@ -1,0 +1,26 @@
+.raya{
+	border-bottom: 2px solid black;
+	width: 150px;
+}
+
+.imagen {
+	
+	margin: 0px;
+	display: inline-block;
+
+}
+
+.uno {
+	display: inline-block;
+	margin: 10px;
+}
+
+h2{
+	position: relative;
+	text-align: right;
+	top: -50px;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+
+}
